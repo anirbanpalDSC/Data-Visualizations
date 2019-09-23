@@ -1,15 +1,16 @@
 # Data-Visualizations
-Example of various data visualizations in R, Python, Power BI along with the related data files.
+<img src='Images/viz.jpg'>
+The intent of this project is to demontrate various data visualizations, i.e. graph types using R. Similar graphs using Python and Power BI will also be uploaded in the project directory but R examples should be considered for for completeness and presentation.
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+All the image and data files for this project are in the repository. 
 
 ### Prerequisite
 To execute this project, you will need the following applications -
 
 R - 3.5+
-Python 3
-Power BI Desktop
+Python 3 - optional
+Power BI Desktop - optional
 Any R editor, e.g. R Studio, Jupyter or any other notebook
 
 ### Installing
@@ -28,6 +29,4 @@ Git is used for project versioning.
 Anirban Pal
 
 ## Acknowledgements
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+NA
