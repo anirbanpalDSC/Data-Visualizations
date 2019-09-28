@@ -18,6 +18,8 @@ magrittr
 dplyr
 ggplot2
 stringr
+repr
+xlsx
 
 ### Installing
 This particular project requires some dependent packages but the dependency would be mentioned as the part of the function and they should be installed automatically from CRAN as needed.
